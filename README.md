@@ -8,7 +8,7 @@ To understand the factors influencing passenger survival in the Titanic dataset 
 
 📦 Files Included
 
-Titanic_EDA_Task.ipynb – Jupyter notebook with full code and visualizations
+Titanic_EDA_Task5.ipynb – Jupyter notebook with full code and visualizations
 Titanic_EDA_Report_Final.pdf – PDF summary of findings
 README.md – Documentation for this project
 
@@ -46,9 +46,13 @@ Fare, Pclass, and FamilySize were related to survival
 
 💡 Key Findings
 Sex: Females had a much higher survival rate (~75%)
+
 Pclass: 1st class passengers survived more than 2nd and 3rd
+
 Family Size: 2–4 member families had better survival
+
 Fare: Higher fare linked to higher survival
+
 Age: Children had slightly better chances
 
 
@@ -66,6 +70,9 @@ This EDA task demonstrated how to:
 
 
 Clean and analyze real-world data
+
 Use visualizations to communicate findings
+
 Prepare data for modeling
+
 Dataset Source Titanic - Machine Learning from Disaster (Kaggle)
