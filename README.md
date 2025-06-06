@@ -9,7 +9,9 @@ To understand the factors influencing passenger survival in the Titanic dataset 
 📦 Files Included
 
 Titanic_EDA_Task5.ipynb – Jupyter notebook with full code and visualizations
+
 Titanic_EDA_Report_Final.pdf – PDF summary of findings
+
 README.md – Documentation for this project
 
 
@@ -22,6 +24,7 @@ Seaborn
 Jupyter Notebook
 
 📊 EDA Process
+
 ✅ Step 1: Data Loading & Overview
 Loaded train.csv from Kaggle Titanic competition
 Checked shape, column types, and missing values
